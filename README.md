@@ -11,7 +11,7 @@ Pre-requisites:
     1. Chrome
        *. Getting the file from ```https://chromedriver.storage.googleapis.com/98.0.4758.102/chromedriver_win32.zip```
     2. Microsoft Edge
-       *. Getting the file from ``````
+       *. Getting the file from ```https://msedgedriver.azureedge.net/98.0.1108.56/edgedriver_win64.zip```
     3. Firefox
        *. Getting the file from ``````
 
