@@ -2,7 +2,8 @@
 Sample selenium webdriver script to work with web browsers in python script 
 
 Pre-requisites:
- 1. Install any IDE (Integrated Development Environment) {Select one from Full fledged IDE or light-weight Text based IDEs}
+ 1. Install an IDE (Integrated Development Environment) {Select one from Full fledged IDE or light-weight Text based IDEs}
+    *. Going with Pycharm Community - Available here ```https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC```
  2. Install Python software code modules
     *. Getting the file from ```https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe```
  3. Install/Import selenium language specific machine files
@@ -13,7 +14,7 @@ Pre-requisites:
     2. Microsoft Edge
        *. Getting the file from ```https://msedgedriver.azureedge.net/98.0.1108.56/edgedriver_win64.zip```
     3. Firefox
-       *. Getting the file from ``````
+       *. Getting the file from ```https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-win64.zip```
 
 The scenarios tried are,
  * Cross Browser calls
